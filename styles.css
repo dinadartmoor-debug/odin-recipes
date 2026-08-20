@@ -1,0 +1,66 @@
+/* styles.css */
+
+div {
+  color: indigo;
+}
+/* styles.css */
+
+.alert-text {
+  color: red;
+}
+
+#title {
+  color: blue;
+  background-color: yellow;
+}
+
+
+.subsection.header {
+  color: red;
+}
+
+.subsection#preview {
+  color: blue;
+}
+
+img {
+  height: auto;
+  width: 300px;
+}
+/* rule 1 */
+.subsection {
+  color: blue;
+}
+
+/* rule 2 */
+.main .list {
+  color: red;
+}
+/* rule 1 */
+#subsection {
+  color: blue;
+}
+
+/* rule 2 */
+.main .list {
+  color: red;
+}
+/* rule 1 */
+#subsection {
+  color: blue;
+}
+
+/* rule 2 */
+.main .list {
+  color: red;
+}
+/* rule 1 */
+#subsection {
+  background-color: yellow;
+  color: blue;
+}
+
+/* rule 2 */
+.main #subsection {
+ color: red;
+}

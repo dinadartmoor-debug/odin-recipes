@@ -1,0 +1,33 @@
+   
+    * {
+  margin: 5px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+  font-family: "MedievalSharp", cursive;
+}
+
+.banner-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  height: auto;
+  border-radius: 12px;
+}
+
+p {
+  font-size: 18px;
+  font-family:"MedievalSharp", cursive;
+  text-align: center;
+  color:darkblue
+}
+ul {
+  list-style-type: square;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
